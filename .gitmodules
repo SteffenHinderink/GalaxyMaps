@@ -1,0 +1,6 @@
+[submodule "ext/OpenVolumeMesh"]
+	path = ext/OpenVolumeMesh
+	url = https://gitlab.vci.rwth-aachen.de:9000/OpenVolumeMesh/OpenVolumeMesh.git
+[submodule "ext/nanogui"]
+	path = ext/nanogui
+	url = https://github.com/mitsuba-renderer/nanogui.git
