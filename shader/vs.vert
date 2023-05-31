@@ -15,7 +15,7 @@ out vec3 vColor;
 void main() {
     vec4 modelViewPosition = uModelViewMatrix * vec4(aPosition, 1);
     vPosition = modelViewPosition.xyz;
-    vNormal = normalize((uNormalMatrix * vec4(aNormal, 1)).xyz);
+    vNormal = normalize((uNormalMatrix * vec4(aNormal, 0)).xyz);
     vColor = aColor;
     gl_Position = uProjectionMatrix * modelViewPosition;
 }
