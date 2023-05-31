@@ -3,7 +3,7 @@
 <img src=galaxy-maps-image.jpg width=375 align=right>
 
 This is an implementation of the volumetric mapping method presented in the SIGGRAPH 2023 paper
-"[**Galaxy Maps: Localized Foliations for Bijective Volumetric Mapping**](http://graphics.cs.uos.de/papers/galaxy-maps-preprint.pdf)"
+"[**Galaxy Maps: Localized Foliations for Bijective Volumetric Mapping**](http://graphics.cs.uos.de/papers/galaxy-maps-preprint.pdf)".
 
 Given a tetrahedral mesh (ball-topology) and prescribed 3D mapping coordinates for its boundary vertices (convex or, more generally, star-shaped),
 it addresses the problem of computing mapping coordinates also for the interior vertices,
