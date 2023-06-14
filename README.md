@@ -175,7 +175,7 @@ Block of a motorcycle complex [MC3D] that neither [TLC] nor [FFM] succeed to par
 ## Dataset
 
 The dataset of volumetric mapping problem instances that were created for benchmarking in the Galaxy Maps paper can be downloaded here:
-[**Dataset**](http://graphics.cs.uos.de/papers/galaxy-maps-data.zip).
+[**Dataset**](https://sync.academiccloud.de/index.php/s/5UGNBVnvo1ki5GZ/download).
 
 ## References
 
