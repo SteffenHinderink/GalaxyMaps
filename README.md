@@ -34,7 +34,8 @@ If you find this code useful, please consider citing our paper:
   year    = {2023},
   journal = {ACM Trans. Graph.},
   volume  = {42},
-  number  = {4}
+  number  = {4},
+  pages   = {129:1--129:16}
 }
 ```
 
