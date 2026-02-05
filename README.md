@@ -182,8 +182,8 @@ The dataset of volumetric mapping problem instances that were created for benchm
 
 - [FFM] Garanzha, V., Kaporin, I., Kudryavtseva, L., Protais, F., Ray, N., & Sokolov, D. (2021). Foldover-free maps in 50 lines of code.
 - [Foliations] Campen, M., Silva, C. T., & Zorin, D. (2016). Bijective maps from simplicial foliations.
-- [MC3D] Brückler, H., Gupta, O., Mandad, M., & Campen, M. (2022). The 3d motorcycle complex for structured volume decomposition.
+- [MC3D] Brückler, H., Gupta, O., Mandad, M., & Campen, M. (2022). The 3D motorcycle complex for structured volume decomposition.
 - [TetGen] Hang, S. (2015). TetGen, a Delaunay-based quality tetrahedral mesh generator.
-- [Thingi10K] Zhou, Q., & Jacobson, A. (2016). Thingi10K: A dataset of 10,000 3d-printing models.
+- [Thingi10K] Zhou, Q., & Jacobson, A. (2016). Thingi10K: A dataset of 10,000 3D-printing models.
 - [TLC] Du, X., Aigerman, N., Zhou, Q., Kovalsky, S. Z., Yan, Y., Kaufman, D. M., & Ju, T. (2020). Lifting simplices to find injectivity.
 - [Tutte3D] Floater, M. S., & Pham-Trong, V. (2006). Convex combination maps over triangulations, tilings, and tetrahedral meshes.
